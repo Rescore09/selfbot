@@ -3,9 +3,7 @@
 A discord wrapper made specifically for selfbots.
 
 > This project was purely made for fun, This can and likely will get you banned.
-
 > This project was made at 6AM so ignore any shit code or mistakes and just post them on issues.
-
 > This project wasn't made with easy usage in mind, If you are a skid I'm just warning you, it wont be easy.
 ---
 
@@ -191,5 +189,6 @@ This bot is strictly for learning. Running it on real accounts may get you banne
 ## License
 
 MIT License. Free to use and modify for learning or personal projects.
+
 
 ---
