@@ -1,0 +1,29 @@
+{
+  "token": "YOUR_TOKEN_HERE",
+  "prefix": "!",
+  "log_level": "INFO",
+  "max_message_length": 2000,
+  "command_cooldown": 1.0,
+  "rate_limits": {
+    "message": {
+      "requests": 5,
+      "window": 5
+    },
+    "command": {
+      "requests": 10,
+      "window": 60
+    }
+  },
+  "features": {
+    "auto_reconnect": true,
+    "log_all_messages": true,
+    "log_reactions": false,
+    "command_logging": true
+  },
+  "intents": {
+    "guilds": true,
+    "guild_messages": true,
+    "guild_reactions": false,
+    "direct_messages": true
+  }
+}
